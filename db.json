@@ -1,4 +1,6 @@
-[{"id":1,"first_name":"Kit","last_name":"Laite","email":"klaite0@nps.gov","gender":"Female"},
+{
+  "posts": 
+  [{"id":1,"first_name":"Kit","last_name":"Laite","email":"klaite0@nps.gov","gender":"Female"},
 {"id":2,"first_name":"Myriam","last_name":"Pecey","email":"mpecey1@boston.com","gender":"Female"},
 {"id":3,"first_name":"Christa","last_name":"Zavattiero","email":"czavattiero2@omniture.com","gender":"Female"},
 {"id":4,"first_name":"Wait","last_name":"Antrag","email":"wantrag3@imgur.com","gender":"Male"},
@@ -98,3 +100,4 @@
 {"id":98,"first_name":"Palmer","last_name":"Josiah","email":"pjosiah2p@google.nl","gender":"Male"},
 {"id":99,"first_name":"Roxane","last_name":"Anselm","email":"ranselm2q@blinklist.com","gender":"Female"},
 {"id":100,"first_name":"Maurise","last_name":"Reuben","email":"mreuben2r@addtoany.com","gender":"Female"}]
+}
