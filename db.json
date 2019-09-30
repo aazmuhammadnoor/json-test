@@ -1,14 +1,10 @@
 {
-  "posts": [{"id":1,"first_name":"Regan","last_name":"Neem","email":"rneem0@infoseek.co.jp","gender":"Female"},
-{"id":2,"first_name":"Vinnie","last_name":"Brewse","email":"vbrewse1@blogs.com","gender":"Male"},
-{"id":3,"first_name":"Wenona","last_name":"Gillbe","email":"wgillbe2@shutterfly.com","gender":"Female"},
-{"id":4,"first_name":"Margy","last_name":"Filby","email":"mfilby3@abc.net.au","gender":"Female"},
-{"id":5,"first_name":"Gunter","last_name":"Hitter","email":"ghitter4@jalbum.net","gender":"Male"},
-{"id":6,"first_name":"Meriel","last_name":"Cranmor","email":"mcranmor5@baidu.com","gender":"Female"},
-{"id":7,"first_name":"Reena","last_name":"Oakeby","email":"roakeby6@bigcartel.com","gender":"Female"},
-{"id":8,"first_name":"Camile","last_name":"Berzin","email":"cberzin7@artisteer.com","gender":"Female"},
-{"id":9,"first_name":"Romonda","last_name":"Wybron","email":"rwybron8@ucla.edu","gender":"Female"},
-{"id":10,"first_name":"Nicola","last_name":"Noto","email":"nnoto9@pbs.org","gender":"Female"}],
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
